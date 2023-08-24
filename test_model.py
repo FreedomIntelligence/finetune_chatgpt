@@ -2,6 +2,9 @@ import openai
 import json
 
 
+openai.api_key = "Your API-KEY"
+
+
 def read_messages_from_jsonl(filename):
     """
     Read messages from a .jsonl file.

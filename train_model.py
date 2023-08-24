@@ -3,6 +3,9 @@ import time
 import logging
 
 
+openai.api_key = "Your API-KEY"
+
+
 def configure_logging():
     """
     Configures logging settings.
