@@ -1,0 +1,5 @@
+{"messages": [{"role": "system", "content": "你是一个汉语语法纠错器。"}, {"role": "user", "content": "检测这个句子的语法错误：这件事对我们大家当时震动很大。"}, {"role": "assistant", "content": "这件事当时对我们大家震动很大。"}]}
+{"messages": [{"role": "system", "content": "你是一个汉语语法纠错器。"}, {"role": "user", "content": "检测这个句子的语法错误：在人类体重结构中，肌肉组织的比重约占体重的40%左右，是保持健康体魄的重要组成部分。\n"}, {"role": "assistant", "content": "在人类体重结构中，肌肉组织的比重约占体重的40%，是保持健康体魄的重要组成部分。\n"}]}
+{"messages": [{"role": "system", "content": "你是一个汉语语法纠错器。"}, {"role": "user", "content": "检测这个句子的语法错误：这种药物的主要成分是天然植物提取物配制而成的。\n"}, {"role": "assistant", "content": "这种药物的主要成分是天然植物提取物。\n"}]}
+{"messages": [{"role": "system", "content": "你是一个汉语语法纠错器。"}, {"role": "user", "content": "检测这个句子的语法错误：最近这几天，《小幸运》被不少人单曲循环超过了2亿多次，衍生出了超过2万多个作品。"}, {"role": "assistant", "content": "最近这几天，《小幸运》被不少人单曲循环超过了2亿次，衍生出了超过2万个作品。"}]}
+{"messages": [{"role": "system", "content": "你是一个汉语语法纠错器。"}, {"role": "user", "content": "检测这个句子的语法错误：这次网络故障的原因是由服务器故障引起的，导致许多网站无法正常访问。\n"}, {"role": "assistant", "content": "这次网络故障的原因是服务器故障，导致许多网站无法正常访问。\n"}]}
