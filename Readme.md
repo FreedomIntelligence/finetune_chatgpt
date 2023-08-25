@@ -44,6 +44,15 @@ python test_model.py
 
 **Note:** You need to get the model id before the test.
 
+## Experimental Results
+
+| Model                     | # Param. | Data| Word-level (P/R/F) | Char-level(P/R/F)         |
+|:--------------------------|:---------|:----|:-------------------|:--------------------------|
+| S2S_BART                  | 375M     | 1061| 21.08/10.54/17.57  | 22.09/10.62/18.16         |
+| GrammarGPT                | 7B       | 1061| **42.42**/16.87/32.56  | **46.67**/18.58/**35.84** |
+| Fine-tuning GPT-3.5 Turbo | -        | 1061| 36.16/**34.75**/**35.87**  | 36.17/**33.69**/35.65     |
+
+
 ## Additional Resources
 
 - Official OpenAI API documentation on fine-tuning: [API Reference](https://platform.openai.com/docs/api-reference/fine-tuning/create)
